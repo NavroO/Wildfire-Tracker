@@ -1,6 +1,11 @@
+## Description
+
+
+
+
 ## Installation
 
-Run `npm run build` to install application
+Run `npm run build` to install application <br/>
 Install Google Maps API with the command `npm install --save google-maps-react` (Remember to be in the main project directory)
 
 ## Running the project with localhost
