@@ -1,21 +1,19 @@
-## Description
+# Wildfire Tracker
 
+> This is a React app to track wildfires and plot them on a Google map.
 
+## Usage
 
+```
+npm install
+npm start
 
-## Installation
+# Build
+npm run build
+or
+yarn build
+```
 
-Run `npm run build` to install application <br/>
-Install Google Maps API with the command `npm install --save google-maps-react` (Remember to be in the main project directory)
+## API Keys
 
-## Running the project with localhost
-
-Go to the main project folder. And use the command `npm start`
-
-## Technologies
-
-- React
-- JSX
-- CSS
-- Nasa API
-- Google Maps API
+You will need to add your Google Maps API key in the Map.js component and register for a NASA API key at https://api.nasa.gov. If you deploy, please move the keys to a safe place
